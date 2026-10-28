@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Kozea/tinycss2/commit/2cab2705158e2b9131e0e8537b8c62b4fb5619f5",
       "git:hexsha": "2cab2705158e2b9131e0e8537b8c62b4fb5619f5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T17:13:34.496024+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Kozea/tinycss2/commit/4567db0258cfc77a5b22e6b24952576286af0be7",
