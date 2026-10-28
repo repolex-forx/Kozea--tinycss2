@@ -1,0 +1,7 @@
+[2026-10-28T17:12:11Z] === AST ITERATION 1 START | repo=Kozea/tinycss2 sha=2cab2705 ===
+[2026-10-28T17:12:11Z] [iter=1] PHASE START: ast repo=Kozea/tinycss2 sha=2cab2705
+[2026-10-28T17:12:11Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T17:12:27Z] [iter=1] AST chunks built count=1 triples=149099
+[2026-10-28T17:12:27Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/2cab2705158e2b9131e0e8537b8c62b4fb5619f5/.complete
+[2026-10-28T17:12:27Z] [iter=1] PHASE END: ast elapsed_s=16 elapsed_min=0.3
+[2026-10-28T17:12:27Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
